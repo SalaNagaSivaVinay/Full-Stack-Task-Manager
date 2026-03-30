@@ -86,7 +86,7 @@ frontend/
 ### 🔹 1. Clone Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SalaNagaSivaVinay/Full-Stack-Task-Manager.git
 cd your-repo-name
 ```
 
