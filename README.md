@@ -138,8 +138,9 @@ npm run dev
 
 ## 🔗 Live Links
 
-* Frontend: https://your-app.vercel.app
-* Backend API: https://your-backend.onrender.com
+* Frontend: https://full-stack-task-manager-gamma.vercel.app/
+* Backend API: https://full-stack-task-manager-vgia.onrender.com/
+* 
 
 ---
 
